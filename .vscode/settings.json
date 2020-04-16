@@ -1,0 +1,11 @@
+{
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#093606",
+		"titleBar.activeBackground": "#0D4B08",
+		"titleBar.activeForeground": "#F2FDF1"
+	},
+	"cSpell.words": [
+		"eths",
+		"mongodb"
+	]
+}

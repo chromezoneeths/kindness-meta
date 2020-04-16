@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "backend": "https://github.com/chromezoneeths/kindness-backend",
+    "frontend": "https://github.com/chromezoneeths/kindness-extension"
+  }
+}
